@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weight</string>
+    <string name="enter_your_weight">Enter your weight...</string>
+    <string name="marsa">Mars</string>
+    <string name="mars_b">Mars</string>
+    <string name="mars_c">Mars</string>
+    <string name="jupiter_a">Jupiter</string>
+    <string name="jupiter_b">Jupiter</string>
+    <string name="jupiter_c">Jupiter</string>
+    <string name="saturn_a">Saturn</string>
+    <string name="saturn_b">Saturn</string>
+    <string name="saturn_c">Saturn</string>
+    <string name="show_weight">Show Weight</string>
+</resources>
